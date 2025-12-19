@@ -1,0 +1,6 @@
+C:/Users/chahla/CLionProjects/PracticaSockets/cmake-build-debug/CMakeFiles/servidor_basico.dir
+C:/Users/chahla/CLionProjects/PracticaSockets/cmake-build-debug/CMakeFiles/servidor_procesos.dir
+C:/Users/chahla/CLionProjects/PracticaSockets/cmake-build-debug/CMakeFiles/servidor_hebras.dir
+C:/Users/chahla/CLionProjects/PracticaSockets/cmake-build-debug/CMakeFiles/cliente.dir
+C:/Users/chahla/CLionProjects/PracticaSockets/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chahla/CLionProjects/PracticaSockets/cmake-build-debug/CMakeFiles/rebuild_cache.dir

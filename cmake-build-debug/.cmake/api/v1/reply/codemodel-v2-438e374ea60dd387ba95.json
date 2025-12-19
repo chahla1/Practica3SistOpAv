@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PracticaSockets",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cliente::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cliente-Debug-7047aad9111de646c9af.json",
+					"name" : "cliente",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "servidor_basico::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-servidor_basico-Debug-4b9c93ba6064aab78317.json",
+					"name" : "servidor_basico",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "servidor_hebras::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-servidor_hebras-Debug-03a9d889148e44382131.json",
+					"name" : "servidor_hebras",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "servidor_procesos::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-servidor_procesos-Debug-1d9707899bffdff063f8.json",
+					"name" : "servidor_procesos",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/chahla/CLionProjects/PracticaSockets/cmake-build-debug",
+		"source" : "C:/Users/chahla/CLionProjects/PracticaSockets"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
